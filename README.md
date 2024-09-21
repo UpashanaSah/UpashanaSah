@@ -2,8 +2,8 @@
 - # I’m interested in A.I and Machine language
 - # I’m currently learning Web development 
 - ## How to reach me through
--🧑‍💻 [ linkedin me](www.linkedin.com/in/upashana-sah-7109802a50).
--✉️[E-mail me](shahupashana5@gmail.com)
+-🧑‍💻 [ linkedin me](www.linkedin.com/in/upashana-sah-7109802a50).<br/>
+-✉️[E-mail me](shahupashana5@gmail.com)<br/>
 - 
 
 
